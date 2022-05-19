@@ -1,42 +1,23 @@
-## VSCode 추천 Plugins
-
-### Auto Rename Tag
-
-### Auto Close Tag
-
-### Color Highlight
-
-### Prettier
-
-### CSS Peek
-
-### Highlight Matching Tag
-
-### vscode-styled-components
-
-### Better Comments
-
-### Git Extension Pack
-
-### Git Graph
-
-### Bracket Peek
-
-### Code Runner
-
-### Output Colorizer
-
-### DotENV
-
-### File Peek
-
-### Inline Parameters Extended for VSCode
-
-### Inline SQL Syntax
-
-### Regex Previewer
-
-### SVG Viewer
+## VSCode 추천 Plugins
+- Auto Rename Tag
+- Auto Close Tag
+- Color Highlight
+- Prettier
+- CSS Peek
+- Highlight Matching Tag
+- vscode-styled-components
+- Better Comments
+- Git Extension Pack
+- Git Graph
+- Bracket Peek
+- Code Runner
+- Output Colorizer
+- DotENV
+- File Peek
+- Inline Parameters Extended for VSCode
+- Inline SQL Syntax
+- Regex Previewer
+- SVG Viewer
 
 ## 참고
 - https://teserre.tistory.com/9
