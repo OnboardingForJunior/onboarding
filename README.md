@@ -11,9 +11,20 @@
 
 ## 수업 진도
 
-1.협업 도구
+### 1. 협업 도구
 - [참고 자료 링크](https://github.com/OnboardingForJunior/onboarding/blob/main/01.%ED%98%91%EC%97%85%EB%8F%84%EA%B5%AC/README.md)<br />
 - [실습](https://github.com/OnboardingForJunior/onboarding/blob/main/01.%ED%98%91%EC%97%85%EB%8F%84%EA%B5%AC/Practice.md)
+
+### 2. 개발 환경
+- [실습](https://github.com/OnboardingForJunior/onboarding/tree/main/02.%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD)
+- [VSCode Plugins 추천](https://github.com/OnboardingForJunior/onboarding/blob/main/02.%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD/VSCode-Plugins.md)
+- [Frontend Roadmap](https://github.com/OnboardingForJunior/onboarding/blob/main/02.%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD/FrontendRoadmap.md)
+
+### 3. JavaScript와 OOP
+- [실습](https://github.com/OnboardingForJunior/onboarding/tree/main/03.JavaScript%EC%99%80OOP)
+
+### 4. 비동기 프로그래밍
+- [실습](https://github.com/OnboardingForJunior/onboarding/tree/main/04.%EB%B9%84%EB%8F%99%EA%B8%B0%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 
 ## 상담 사전조사
 [네이버 설문](https://naver.me/xwDk5JkA)
