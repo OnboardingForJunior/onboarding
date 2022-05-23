@@ -17,7 +17,7 @@ https://gist.github.com/crongro/61d3126778c34c0667a5ed81af5d1a17
 
 ### ClassifierAlpha
 
-자연수 분류 ClassifierAlpha, PrimeAlpha 를 이용해서 2-100까지 자연수 중에서  
+자연수 분류 ClassifierAlpha, PrimeAlpha 를 이용해서 2-100까지 자연수 중에서 입력 받은 숫자의
 약수중 완전수(perfect), 과잉수(Abundant), 부족수(Deficient)인지 판단하는 ClassifierAlpha 클래스.
 
 ### PrimeAlpha 클래스
