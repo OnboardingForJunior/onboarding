@@ -49,7 +49,7 @@ https://gist.github.com/crongro/61d3126778c34c0667a5ed81af5d1a17
 
 ## 추가 미션
 - JavaScript Classes 에서 상속을 어떻게 구현하는 것인지, 상속은 어떤 원리인지 알아보고 정리한다
-  - 관련 키워드 : extend, prototype
+  - 관련 키워드 : extends, prototype
 - 코드를 더 리팩토링할 수 있는가? 그런 부분을 찾아서 수정해보자. 리팩토링한 부분에 대해서는 주석으로 설명을 추가한다.
 
 ## 객체지향 프로그래밍
